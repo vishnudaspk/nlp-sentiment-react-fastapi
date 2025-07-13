@@ -8,13 +8,13 @@ Welcome to **NLP Sentiment Analysis**, a full-stack AI-powered web application t
 
 ## 🚀 Tech Stack
 
-| Layer         | Tech Used                     |
-|---------------|-------------------------------|
-| Frontend      | React (with create-react-app) |
-| Backend       | FastAPI + Uvicorn             |
-| Model         | Hugging Face Transformers     |
-| Fine-tuning   | PyTorch + Datasets            |
-| Deployment    | Docker + Docker Compose       |
+| Layer       | Tech Used                     |
+| ----------- | ----------------------------- |
+| Frontend    | React (with create-react-app) |
+| Backend     | FastAPI + Uvicorn             |
+| Model       | Hugging Face Transformers     |
+| Fine-tuning | PyTorch + Datasets            |
+| Deployment  | Docker + Docker Compose       |
 
 ---
 
@@ -53,44 +53,52 @@ cd nlp-sentiment-react-fastapi
 docker-compose up --build
 ```
 
-- Frontend 👉 http://localhost:3000
-- Backend API 👉 http://localhost:8000
-- Swagger docs 👉 http://localhost:8000/docs
+* Frontend 👉 [http://localhost:3000](http://localhost:3000)
+* Backend API 👉 [http://localhost:8000](http://localhost:8000)
+* Swagger docs 👉 [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
-## 🐳 Run the Backend via Docker (Prebuilt Image)
 
-Want to test the backend without cloning or building anything?
+## 🐳 Run the Backend via Docker Hub
 
-Just pull the image from Docker Hub and run it:
+Don't want to clone and build locally?
 
 ```bash
 docker pull vishnu71y13/sentiment-backend:latest
 docker run -p 8000:8000 vishnu71y13/sentiment-backend
-
-
-## 📡 API Endpoint
-
-**POST `/predict`**
-```json
-Request:
-{
-  "text": "I love this app!"
-}
-
-Response:
-{
-  "label": "positive",
-  "score": 0.9843
-}
 ```
-Test it via Swagger at `/docs` or from the frontend UI.
+
+Test it at: `http://localhost:8000/docs`
 
 ---
 
-## 🧪 Model Fine-Tuning
+## 📱 API Usage — FastAPI Swagger Docs
+
+Once running, explore the API here: [http://localhost:8000/docs](http://localhost:8000/docs)
+
+### 🧪 Example Request (POST /predict)
+
+```json
+{
+  "text": "The product exceeded my expectations!"
+}
+```
+
+### ✅ Example Response
+
+```json
+{
+  "label": "POSITIVE",
+  "score": 0.9864
+}
+```
+
+---
+
+## 🤪 Model Fine-Tuning
 
 To fine-tune your own sentiment model:
+
 ```bash
 python backend/finetune.py \
   --data backend/data/data.jsonl \
@@ -98,4 +106,15 @@ python backend/finetune.py \
   --lr 3e-5
 ```
 
-Model will be saved
+Model will be saved to the `backend/model/` directory.
+
+---
+
+## 📅 Author & Credits
+
+Built with ❤️ by [Vishnu Das P K](https://github.com/vishnudaspk)
+Docker Image: [vishnu71y13/sentiment-backend](https://hub.docker.com/r/vishnu71y13/sentiment-backend)
+
+---
+
+Happy Coding! 🤖
