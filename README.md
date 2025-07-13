@@ -58,6 +58,16 @@ docker-compose up --build
 - Swagger docs 👉 http://localhost:8000/docs
 
 ---
+## 🐳 Run the Backend via Docker (Prebuilt Image)
+
+Want to test the backend without cloning or building anything?
+
+Just pull the image from Docker Hub and run it:
+
+```bash
+docker pull vishnu71y13/sentiment-backend:latest
+docker run -p 8000:8000 vishnu71y13/sentiment-backend
+
 
 ## 📡 API Endpoint
 
