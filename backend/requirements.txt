@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+scikit-learn
+datasets
+pydantic
+importlib-metadata>=4.0; python_version < "3.10"
