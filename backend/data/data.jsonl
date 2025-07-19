@@ -1,30 +1,236 @@
-{"text": "I love this product!", "label": "positive"}  
-{"text": "This is the worst experience I've ever had.", "label": "negative"}  
-{"text": "Absolutely fantastic service!", "label": "positive"}  
-{"text": "I'm not satisfied with the quality.", "label": "negative"}  
-{"text": "Highly recommend to everyone!", "label": "positive"}  
-{"text": "It did not meet my expectations.", "label": "negative"}  
-{"text": "Best purchase I've made this year!", "label": "positive"}  
-{"text": "Terrible customer support.", "label": "negative"}  
-{"text": "I'm very happy with my purchase.", "label": "positive"}  
-{"text": "I would not buy this again.", "label": "negative"}
-{"text": "This is an amazing product!", "label": "positive"}  
-{"text": "I had a bad experience with this service.", "label": "negative"}  
-{"text": "So pleased with the results!", "label": "positive"}  
-{"text": "The quality is disappointing.", "label": "negative"}  
-{"text": "Excellent value for money!", "label": "positive"}  
-{"text": "I regret buying this item.", "label": "negative"}  
-{"text": "Superb quality and fast delivery!", "label": "positive"}  
-{"text": "Very unhelpful staff.", "label": "negative"}  
-{"text": "I will definitely recommend it to my friends.", "label": "positive"}  
-{"text": "Not worth the price at all.", "label": "negative"}  
-{"text": "This exceeded my expectations!", "label": "positive"}  
-{"text": "I am extremely disappointed.", "label": "negative"}  
-{"text": "Fantastic quality and service!", "label": "positive"}  
-{"text": "The product broke after one use.", "label": "negative"}  
-{"text": "I am very satisfied with my order.", "label": "positive"}  
-{"text": "Poor quality, would not recommend.", "label": "negative"}  
-{"text": "This is a must-have item!", "label": "positive"}  
-{"text": "Awful experience, will not return.", "label": "negative"}  
-{"text": "I am thrilled with this purchase!", "label": "positive"}  
-{"text": "Very disappointing overall.", "label": "negative"}
+{"text":"Setup was smooth and hassle free.","label":"positive"}
+{"text":"Difficult to use and buggy.","label":"negative"}
+{"text":"Reliable performance day in and day out.","label":"positive"}
+{"text":"Fantastic customer experience.","label":"positive"}
+{"text":"Very pleased with how it works.","label":"positive"}
+{"text":"Returned with no returns accepted.","label":"negative"}
+{"text":"Received a defective unit.","label":"negative"}
+{"text":"Huge waste of money.","label":"negative"}
+{"text":"Delivery was fast and packaging perfect.","label":"positive"}
+{"text":"Instructions were confusing.","label":"negative"}
+{"text":"I'm extremely happy with this item.","label":"positive"}
+{"text":"A real game-changer.","label":"positive"}
+{"text":"Love the sleek design and feel.","label":"positive"}
+{"text":"Five-star quality in my opinion.","label":"positive"}
+{"text":"Wonderful experience from ordering to use.","label":"positive"}
+{"text":"Stopped working after a week.","label":"negative"}
+{"text":"Impressed beyond words.","label":"positive"}
+{"text":"Terrible customer support ruined the experience.","label":"negative"}
+{"text":"Seriously overpriced for what it is.","label":"negative"}
+{"text":"Terrible experience overall.","label":"negative"}
+{"text":"Exactly as described—no surprises.","label":"positive"}
+{"text":"Incredible technology at this price.","label":"positive"}
+{"text":"Very impressed by the build quality.","label":"positive"}
+{"text":"Not worth the price at all.","label":"negative"}
+{"text":"Unreliable connections, disappointing.","label":"negative"}
+{"text":"Support team never responded.","label":"negative"}
+{"text":"Really dissatisfied with this purchase.","label":"negative"}
+{"text":"Very unhappy with the quality.","label":"negative"}
+{"text":"The best I have used in this category.","label":"positive"}
+{"text":"I would give it zero stars if I could.","label":"negative"}
+{"text":"Absolutely fantastic service and support.","label":"positive"}
+{"text":"Very innovative and user-focused.","label":"positive"}
+{"text":"Product function far exceeded my hopes.","label":"positive"}
+{"text":"Feels flimsy and cheap.","label":"negative"}
+{"text":"Amazing value for the price.","label":"positive"}
+{"text":"I love this product! It works better than I expected.","label":"positive"}
+{"text":"Superb product—definitely buying again.","label":"positive"}
+{"text":"Design is awkward and uncomfortable.","label":"negative"}
+{"text":"Functionality is limited and poor.","label":"negative"}
+{"text":"Packaging was damaged on arrival.","label":"negative"}
+{"text":"Durable build with premium feel.","label":"positive"}
+{"text":"Color faded within days.","label":"negative"}
+{"text":"I regret buying this item.","label":"negative"}
+{"text":"Product is outstanding in every way.","label":"positive"}
+{"text":"Support staff was unhelpful.","label":"negative"}
+{"text":"Low battery life.","label":"negative"}
+{"text":"The product broke after one use, extremely disappointed.","label":"negative"}
+{"text":"Remarkable attention to detail.","label":"positive"}
+{"text":"True disaster avoid this product.","label":"negative"}
+{"text":"Customer service was excellent.","label":"positive"}
+{"text":"Performance is lagging.","label":"negative"}
+{"text":"Excellent quality and fast delivery.","label":"positive"}
+{"text":"Superb experience from start to finish.","label":"positive"}
+{"text":"Top-notch quality and reliability.","label":"positive"}
+{"text":"Brilliant — exactly what I needed.","label":"positive"}
+{"text":"One of the best purchases I've made.","label":"positive"}
+{"text":"Comfortable and efficient.","label":"positive"}
+{"text":"Bad fit, unusable.","label":"negative"}
+{"text":"Broken out of the box.","label":"negative"}
+{"text":"Did not meet my expectations.","label":"negative"}
+{"text":"Thrilled with the performance.","label":"positive"}
+{"text":"Poor quality—will not buy again.","label":"negative"}
+{"text":"Exceeded all my expectations.","label":"positive"}
+{"text":"User-friendly and powerful.","label":"positive"}
+{"text":"Solid value for what you pay.","label":"positive"}
+{"text":"Exceeded my highest standards.","label":"positive"}
+{"text":"Highly recommend to everyone.","label":"positive"}
+{"text":"Interface is intuitive and clean.","label":"positive"}
+{"text": "Broken out of the box.", "label": "negative"}
+{"text": "Perfect for my needs.", "label": "positive"}
+{"text": "Exactly what I wanted.", "label": "positive"}
+{"text": "Completely stopped working within a few days.", "label": "negative"}
+{"text": "Exactly as described\u2014no surprises.", "label": "positive"}
+{"text": "Too many issues out of the box.", "label": "negative"}
+{"text": "It's basically unusable.", "label": "negative"}
+{"text": "Low battery life.", "label": "negative"}
+{"text": "It's basically unusable.", "label": "negative"}
+{"text": "Exactly what I wanted.", "label": "positive"}
+{"text": "Great product at this price.", "label": "positive"}
+{"text": "Thrilled with the performance.", "label": "positive"}
+{"text": "This was the worst purchase I've made.", "label": "negative"}
+{"text": "Great product at this price.", "label": "positive"}
+{"text": "Terrible experience, had to return it.", "label": "negative"}
+{"text": "The product broke after one use, extremely disappointed.", "label": "negative"}
+{"text": "Terrible experience overall.", "label": "negative"}
+{"text": "Design is awkward and uncomfortable.", "label": "negative"}
+{"text": "I regret buying this item.", "label": "negative"}
+{"text": "Terribly made, not recommended.", "label": "negative"}
+{"text": "It's basically unusable.", "label": "negative"}
+{"text": "Cheap materials and bad finish.", "label": "negative"}
+{"text": "Impressed beyond words.", "label": "positive"}
+{"text": "Not worth the price at all.", "label": "negative"}
+{"text": "True disaster avoid this product.", "label": "negative"}
+{"text": "Exceeded my expectations!", "label": "positive"}
+{"text": "Won't recommend this to anyone.", "label": "negative"}
+{"text": "Reliable performance day in and day out.", "label": "positive"}
+{"text": "Stopped working after a week.", "label": "negative"}
+{"text": "Did not meet my expectations.", "label": "negative"}
+{"text": "Remarkable attention to detail.", "label": "positive"}
+{"text": "Terrible experience, had to return it.", "label": "negative"}
+{"text": "Premium look and performance.", "label": "positive"}
+{"text": "Feels like a scam product.", "label": "negative"}
+{"text": "Terrible customer support ruined the experience.", "label": "negative"}
+{"text": "It's basically unusable.", "label": "negative"}
+{"text": "Doesn't match the description at all.", "label": "negative"}
+{"text": "Premium look and performance.", "label": "positive"}
+{"text": "Missed delivery and poor service.", "label": "negative"}
+{"text": "Very slow and unresponsive.", "label": "negative"}
+{"text": "Superb product\u2014definitely buying again.", "label": "positive"}
+{"text": "Amazing quality and feel.", "label": "positive"}
+{"text": "Exceeded all my expectations.", "label": "positive"}
+{"text": "Instructions were confusing.", "label": "negative"}
+{"text": "Cheap materials and bad finish.", "label": "negative"}
+{"text": "It's basically unusable.", "label": "negative"}
+{"text": "Won't recommend this to anyone.", "label": "negative"}
+{"text": "Exactly what I wanted.", "label": "positive"}
+{"text": "Disappointed by the build quality.", "label": "negative"}
+{"text": "Amazing value for the price.", "label": "positive"}
+{"text": "Highly efficient and effective.", "label": "positive"}
+{"text": "Brilliant \u2014 exactly what I needed.", "label": "positive"}
+{"text": "Doesn't live up to the hype.", "label": "negative"}
+{"text": "Would definitely recommend.", "label": "positive"}
+{"text": "Reliable and sturdy.", "label": "positive"}
+{"text": "Cheap materials and bad finish.", "label": "negative"}
+{"text": "Amazing quality and feel.", "label": "positive"}
+{"text": "Excellent quality and fast delivery.", "label": "positive"}
+{"text": "Feels like a scam product.", "label": "negative"}
+{"text": "Perfect for my needs.", "label": "positive"}
+{"text": "Love the sleek design and feel.", "label": "positive"}
+{"text": "Very slow and unresponsive.", "label": "negative"}
+{"text": "Premium look and performance.", "label": "positive"}
+{"text": "Very pleased with how it works.", "label": "positive"}
+{"text": "Product is outstanding in every way.", "label": "positive"}
+{"text": "Very unhappy with the quality.", "label": "negative"}
+{"text": "Huge waste of money.", "label": "negative"}
+{"text": "Very slow and unresponsive.", "label": "negative"}
+{"text": "Feels like a scam product.", "label": "negative"}
+{"text": "The best I have used in this category.", "label": "positive"}
+{"text": "Durable build with premium feel.", "label": "positive"}
+{"text": "Would definitely recommend.", "label": "positive"}
+{"text": "It's basically unusable.", "label": "negative"}
+{"text": "Returned with no returns accepted.", "label": "negative"}
+{"text": "Missed delivery and poor service.", "label": "negative"}
+{"text": "Received a defective unit.", "label": "negative"}
+{"text": "Build quality is pathetic.", "label": "negative"}
+{"text": "Product function far exceeded my hopes.", "label": "positive"}
+{"text": "Difficult to use and buggy.", "label": "negative"}
+{"text": "Everything about this is wrong.", "label": "negative"}
+{"text": "Disappointed by the build quality.", "label": "negative"}
+{"text": "I love this product! It works better than I expected.", "label": "positive"}
+{"text": "Too many issues out of the box.", "label": "negative"}
+{"text": "Reliable and sturdy.", "label": "positive"}
+{"text": "Very frustrating experience.", "label": "negative"}
+{"text": "Would definitely recommend.", "label": "positive"}
+{"text": "Premium look and performance.", "label": "positive"}
+{"text": "Packaging was damaged on arrival.", "label": "negative"}
+{"text": "Feels flimsy and cheap.", "label": "negative"}
+{"text": "A real game-changer.", "label": "positive"}
+{"text": "Very slow and unresponsive.", "label": "negative"}
+{"text": "Incredible technology at this price.", "label": "positive"}
+{"text": "Feels like a scam product.", "label": "negative"}
+{"text": "Absolutely fantastic service and support.", "label": "positive"}
+{"text": "Crashes every time I try to use it.", "label": "negative"}
+{"text": "Five-star quality in my opinion.", "label": "positive"}
+{"text": "Reliable and sturdy.", "label": "positive"}
+{"text": "Feels like a scam product.", "label": "negative"}
+{"text": "Very innovative and user-focused.", "label": "positive"}
+{"text": "Performance is lagging.", "label": "negative"}
+{"text": "Very impressed by the build quality.", "label": "positive"}
+{"text": "Terrible experience, had to return it.", "label": "negative"}
+{"text": "Seriously overpriced for what it is.", "label": "negative"}
+{"text": "This was the worst purchase I've made.", "label": "negative"}
+{"text": "Reliable and sturdy.", "label": "positive"}
+{"text": "Bad fit, unusable.", "label": "negative"}
+{"text": "Feels like a scam product.", "label": "negative"}
+{"text": "Won't recommend this to anyone.", "label": "negative"}
+{"text": "Very slow and unresponsive.", "label": "negative"}
+{"text": "Poor quality\u2014will not buy again.", "label": "negative"}
+{"text": "Very slow and unresponsive.", "label": "negative"}
+{"text": "Crashes every time I try to use it.", "label": "negative"}
+{"text": "User-friendly and powerful.", "label": "positive"}
+{"text": "Absolutely love this.", "label": "positive"}
+{"text": "Terrible experience, had to return it.", "label": "negative"}
+{"text": "Absolutely love this.", "label": "positive"}
+{"text": "This was the worst purchase I've made.", "label": "negative"}
+{"text": "It's a complete letdown.", "label": "negative"}
+{"text": "Very slow and unresponsive.", "label": "negative"}
+{"text": "It's a complete letdown.", "label": "negative"}
+{"text": "Exceeded my highest standards.", "label": "positive"}
+{"text": "Too many issues out of the box.", "label": "negative"}
+{"text": "Missed delivery and poor service.", "label": "negative"}
+{"text": "Completely stopped working within a few days.", "label": "negative"}
+{"text": "One of the best purchases I've made.", "label": "positive"}
+{"text": "Wonderful experience from ordering to use.", "label": "positive"}
+{"text": "Support team never responded.", "label": "negative"}
+{"text": "Top-notch quality and reliability.", "label": "positive"}
+{"text": "It's a complete letdown.", "label": "negative"}
+{"text": "Unreliable connections, disappointing.", "label": "negative"}
+{"text": "Build quality is pathetic.", "label": "negative"}
+{"text": "Crashes every time I try to use it.", "label": "negative"}
+{"text": "Color faded within days.", "label": "negative"}
+{"text": "Delivery was fast and packaging perfect.", "label": "positive"}
+{"text": "Highly recommend to everyone.", "label": "positive"}
+{"text": "Superb experience from start to finish.", "label": "positive"}
+{"text": "I would give it zero stars if I could.", "label": "negative"}
+{"text": "Perfect for my needs.", "label": "positive"}
+{"text": "Doesn't match the description at all.", "label": "negative"}
+{"text": "Absolutely love this.", "label": "positive"}
+{"text": "Interface is intuitive and clean.", "label": "positive"}
+{"text": "Support staff was unhelpful.", "label": "negative"}
+{"text": "Customer service was excellent.", "label": "positive"}
+{"text": "Missed delivery and poor service.", "label": "negative"}
+{"text": "Highly efficient and effective.", "label": "positive"}
+{"text": "Setup was smooth and hassle free.", "label": "positive"}
+{"text": "Very frustrating experience.", "label": "negative"}
+{"text": "Functionality is limited and poor.", "label": "negative"}
+{"text": "Very frustrating experience.", "label": "negative"}
+{"text": "Fantastic customer experience.", "label": "positive"}
+{"text": "Completely stopped working within a few days.", "label": "negative"}
+{"text": "Doesn't match the description at all.", "label": "negative"}
+{"text": "Terrible experience, had to return it.", "label": "negative"}
+{"text": "I'm extremely happy with this item.", "label": "positive"}
+{"text": "Doesn't live up to the hype.", "label": "negative"}
+{"text": "Very frustrating experience.", "label": "negative"}
+{"text": "Reliable and sturdy.", "label": "positive"}
+{"text": "Reliable and sturdy.", "label": "positive"}
+{"text": "Build quality is pathetic.", "label": "negative"}
+{"text": "Comfortable and efficient.", "label": "positive"}
+{"text": "Terrible experience, had to return it.", "label": "negative"}
+{"text": "Solid value for what you pay.", "label": "positive"}
+{"text": "Terribly made, not recommended.", "label": "negative"}
+{"text": "Feels like a scam product.", "label": "negative"}
+{"text": "It's a complete letdown.", "label": "negative"}
+{"text": "Perfect for my needs.", "label": "positive"}
+{"text": "Build quality is pathetic.", "label": "negative"}
+{"text": "Really dissatisfied with this purchase.", "label": "negative"}

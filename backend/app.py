@@ -1,3 +1,5 @@
+# app.py
+
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -13,7 +15,7 @@ print(f"📂 Loading model from: {model_dir}")
 # Allow frontend access
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Replace with ["http://localhost:3000"] in production
+    allow_origins=["http://localhost:3000"],  # Replace with ["http://localhost:3000"] in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
